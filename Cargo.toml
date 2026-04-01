@@ -1,0 +1,14 @@
+[package]
+name = "prux"
+version = "0.1.0"
+edition = "2021"
+description = "Linux-first PTY/process-session primitives with tmux-inspired low-level process semantics"
+license = "MIT OR Apache-2.0"
+publish = false
+readme = "README.md"
+
+[lib]
+name = "prux"
+path = "src/lib.rs"
+
+[dependencies]
