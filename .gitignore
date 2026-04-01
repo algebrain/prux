@@ -1,3 +1,5 @@
 .plans/
 .answers/
 /target/
+*.local
+*.local.*
